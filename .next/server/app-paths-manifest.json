@@ -1,0 +1,12 @@
+{
+  "/page": "app/page.js",
+  "/admin/livre/page": "app/admin/livre/page.js",
+  "/admin/livre/newlivre/page": "app/admin/livre/newlivre/page.js",
+  "/admin/livre/updateLivre/[id]/page": "app/admin/livre/updateLivre/[id]/page.js",
+  "/api/livre/[id]/route": "app/api/livre/[id]/route.js",
+  "/api/livre/route": "app/api/livre/route.js",
+  "/api/editeur/route": "app/api/editeur/route.js",
+  "/api/specialite/route": "app/api/specialite/route.js",
+  "/api/auteur/route": "app/api/auteur/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
